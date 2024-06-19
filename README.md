@@ -35,5 +35,5 @@ Version Control
 <br />
 
 <a href="">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazemsattari&show_icons=true&theme=radical)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazemsattari&show_icons=true&theme=radical" />
 </a>
