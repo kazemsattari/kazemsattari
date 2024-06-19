@@ -43,7 +43,7 @@ Version Control
 
 <h2>&nbsp; Connect Me</h2>
 
-<p align="center>
+<p align="center">
  <a href="">
   <img src="https://img.shields.io/badge/telegram-kazem_str-blue?logo=telegram" />
   </a>
