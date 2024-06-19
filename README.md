@@ -31,3 +31,9 @@ Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br />
+
+<a href="">
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazemsattari&show_icons=true&theme=radical)" />
+</a>
