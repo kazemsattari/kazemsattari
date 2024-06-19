@@ -5,7 +5,7 @@
 - ✔ &nbsp; Working as a FrontEnd Developer 
 - ✔ &nbsp; Interested in technology and coding and programming
 
-<h3> 📌 &nbsp; Teck stack</h3>
+<h3> 📌 &nbsp; Tech stack</h3>
 
 Languages
   
