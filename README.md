@@ -1,11 +1,11 @@
 <h2>Hi EveryOne! I'm Kazem Sattari</h2>
 
-<h3> 📌 &nbsp; About Me</h3>
+<h2> 📌 &nbsp; About Me</h2>
 
 - ✔ &nbsp; Working as a FrontEnd Developer 
 - ✔ &nbsp; Interested in technology and coding and programming
 
-<h3> 📌 &nbsp; Tech stack</h3>
+<h2> 📌 &nbsp; Tech stack</h2>
 
 Languages
   
@@ -34,9 +34,11 @@ Version Control
 
 <br />
 
-<h3> ☑ &nbsp; Github stats</h3>
+<h2> ☑ &nbsp; Github stats</h2>
 
 <a href="https://github.com/kazemsattari">
   <img src="https://github-readme-stats.vercel.app/api?username=kazemsattari&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazemsattari" />
 </a>
+
+<h2>&nbsp; Connect Me</h2>
