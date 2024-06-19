@@ -41,7 +41,7 @@ Version Control
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazemsattari" />
 </a>
 
-<h2>&nbsp; Connect Me</h2>
+<h2>☑ &nbsp; Connect Me</h2>
 
 <p align="center">
  <a href="">
