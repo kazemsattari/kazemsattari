@@ -1,8 +1,7 @@
-## Hi there 👋
+<h2>Hi EveryOne! I'm Kazem Sattari</h2>
 
-## My Activity
-<img src="https://github-readme-stats.vercel.app/api?username=kazemsattari&show_icons=true&theme=radical" />
+<h3> &nbsp; About Me</h3>
 
-## My Projects Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazemsattari&hide_progress=true" />
+- ✔ Working as a FrontEnd Developer 
+- ✔ Interested in technology and coding and programming
 
