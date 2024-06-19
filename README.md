@@ -34,7 +34,7 @@ Version Control
 
 <br />
 
-<h3> 📌 &nbsp; Github stats</h3>
+<h3> ☑ &nbsp; Github stats</h3>
 
 <a href="https://github.com/kazemsattari">
   <img src="https://github-readme-stats.vercel.app/api?username=kazemsattari&show_icons=true&theme=radical" />
