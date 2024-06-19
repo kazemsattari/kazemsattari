@@ -47,4 +47,7 @@ Version Control
  <a href="https://t.me/kazem_str">
   <img src="https://img.shields.io/badge/telegram-kazem_str-blue?logo=telegram" />
   </a>
+ <a href="https://instagram.com/kazem_str">
+  <img src="https://img.shields.io/badge/instagram-kazem_str-red?logo=instagram" />
+  </a>
 </p>
